@@ -4,5 +4,6 @@ members = [
   "hello-tokio",
 	"spawing",
 	"shared-state",
-	"channels"
+	"channels",
+	"io"
 ]

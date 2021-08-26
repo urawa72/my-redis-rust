@@ -1,5 +1,6 @@
 [workspace]
 
 members = [
-  "hello-tokio"
+  "hello-tokio",
+	"spawing"
 ]

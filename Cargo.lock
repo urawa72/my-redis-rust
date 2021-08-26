@@ -452,6 +452,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "shared-state"
+version = "0.1.0"
+dependencies = [
+ "bytes",
+ "mini-redis",
+ "tokio",
+]
+
+[[package]]
 name = "signal-hook-registry"
 version = "1.4.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
